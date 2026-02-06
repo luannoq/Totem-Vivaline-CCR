@@ -54,9 +54,9 @@ Para rodar o projeto localmente, siga os passos abaixo:
    
 
 ## 👥 Equipe de Desenvolvimento
-- Luann Noqueli - RM 560313
-- Arthur Thomas - RM 561061
-- Jhonatta Lima - RM 560277
+- Luann Noqueli 
+- Arthur Thomas 
+- Jhonatta Lima 
 
 ## 💬 Contato
 Para entrar em contato, envie um **e-mail** para: **spectrumfiap@gmail.com**
